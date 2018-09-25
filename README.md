@@ -18,3 +18,6 @@ This feature helps already registered users to login into the application to be 
 - password
 ##### Profile editing
 This feature helps an already logged in user to edit their profile as they see fit
+Editable fields;
+- password
+- email
